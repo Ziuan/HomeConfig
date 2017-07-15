@@ -1,0 +1,7 @@
+[user]
+	name = Ziuan
+	email = schiess87@gmail.com
+
+# Alias import
+[include]
+	path = .gitalias
