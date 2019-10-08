@@ -4,4 +4,5 @@
 	st = status
 	su = submodule update --init --recursive
 	br = branch
+	pod = push origin development
 	
